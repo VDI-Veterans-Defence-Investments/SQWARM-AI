@@ -10,7 +10,7 @@ You've watch global sociopaths close off your devices, making you pay for your o
 Meshnetworks like SQWARM AI let you lease and ooerate open source software with many closed binary OEM devices that coordinate and cooperate autonomously. You set the policy, you get the returns. 
 
 ## What's a Querk? ##
-A Querk is an autonomous device working in your mesh for YOU.  It plugs in and gives you a web browser explanation of capabilities.  You set policy and it operates 
+A Querk is an autonomous device working in your mesh for YOU.  It plugs in and gives you a web browser explanation of capabilities.  You set policy and it operates within its autonomous augmentation AI to deliver the best it can. Querks are fault tolerant and adaptive to local mesh 
 
 
 ## HOW DOES IT ALL TIE IN? ##
@@ -22,6 +22,8 @@ We publish the *Plan* in the open on github, and offer any organization to join 
 We customize hardware from any manufacturer to deliver plan-compliant systems as the *Platforms*. These remain company proprietary or held by organizations making a VDI project via prototype proposal. VDI can deliver *Platforms* or recommend partners to deliver local implementations of global designs.
 
 *Protection* is classified and can vary by VDI local implementations of global designs.
-*Protection* are non standard design elements. 
+*Protection* are non standard design elements beyond public scrutiny. 
 
-*Payload* is the object of these security and defence systems. Any deliverable or outcome from data delivery to end effects in mission areas 
+*Payload* is the object of these security and defence systems. Any deliverable or outcome from data delivery to end effects in mission areas that shape the battlespace. Payload classification is on a case by case basis. 
+
+All VDI projects must present _All VDI PROJECTS_ as following these requirements. 
