@@ -10,7 +10,7 @@ You've watch global sociopaths close off your devices, making you pay for your o
 Meshnetworks like SQWARM AI let you lease and ooerate open source software with many closed binary OEM devices that coordinate and cooperate autonomously. You set the policy, you get the returns. 
 
 ## What's a Querk? ##
-A Querk is an autonomous device working in your mesh for YOU.  It plugs in and gives you a web browser explanation of capabilities.  You set policy and it operates within its autonomous augmentation AI to deliver the best it can. Querks are fault tolerant and adaptive to local mesh 
+A Querk is an autonomous device working in your security mesh for YOU.  It plugs in and gives you a web browser explanation of capabilities.  You set policy and it operates within its autonomous augmentation AI to deliver the best it can. Querks are fault tolerant and adaptive to local mesh network flow.  The AI is augmentation not replacement: you 
 
 
 ## HOW DOES IT ALL TIE IN? ##
